@@ -1,0 +1,1 @@
+INSERT INTO UserDetails (UserName,UserPassword,MobileNo,Gender,age) VALUES ('Amit', 'Amit', 2000,'M',23); 
